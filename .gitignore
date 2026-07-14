@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.log
+
+# Arquivos-fonte pesados não usados no build atual
+assets/*.png
+assets/modelo-a.mp4
+assets/hero-cafe.mp4
+
